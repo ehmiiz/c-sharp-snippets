@@ -3,6 +3,7 @@
     Simple program to demonstrate C#'s syntax and features
 
     Demonstrates:
+    - Top level statement
     - Multi line comments
     - Single line comments
     - Ask user for input
